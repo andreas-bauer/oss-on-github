@@ -7,7 +7,7 @@ TODO: Add brief introduction.
 TODO: Add image that helps to understand the project.
 This could be an architectural diagram or a screenshot of the application.
 
-## Architecture Overview
+## Architecture Overview (optional)
 
 TODO: Add simple diagram that explains the architecture.
 
