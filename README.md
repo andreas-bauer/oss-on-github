@@ -135,3 +135,9 @@ GitHub provides a list of issues that are suitable for beginners:
 [GitHub topic](https://github.com/topics/good-first-issue)
 
 This is a great opportunity to get started contributing to open source software.
+
+## License
+
+Copyright © 2023 Andreas Bauer
+
+This work is licensed under [CC BY-SA 4.0](./LICENSE).
